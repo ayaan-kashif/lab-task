@@ -1,6 +1,8 @@
 #include<stdio.h>
 
 int main(){
+    int ayaan;
+    
     int Age;
     char Name[50], Department[50],Student_ID[20],University_name[50];
 
